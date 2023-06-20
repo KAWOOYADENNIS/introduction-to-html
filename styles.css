@@ -1,0 +1,15 @@
+#Myform{
+    text-align: center;
+    background-color:gray;
+    margin: 100px 100px;
+    padding: 50px;
+    color: aqua;
+}
+input{
+    width: 150px;
+    padding: 5px;
+    margin: 2px;
+}
+label{
+    width: 20px;
+}
